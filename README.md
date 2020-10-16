@@ -1,6 +1,6 @@
-# android-chat-app
+# Android Chat App
 
-Following the tutorial videos on the youtube channel 'Hey! Let's Code', I create my first Android App, combined with my previous knowledge of backend JavaScript (NodeJS).
+An Android chat application with user authentication and support for two types of messages - texts and images.
 
 Below is a brief demo of the app:
 
